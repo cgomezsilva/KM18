@@ -85,46 +85,46 @@ Enrique Matos 809-699-1596
 71 El Nacimiento De Samuel  
 1 Samuel 1:20-28 
 
--Octubre 27 
+## Octubre 27 
 Emmanuel Carela 829 470 9222 
 Miguel Javier 829 380 2872 
 Esteban Santos (829) 360-0850 
 72 Eli Y Sus Malvados Hijos  
 1 Samuel 2:12-36 
 
--Noviembre 3 
+## Noviembre 3 
 Mario Viñas 809-467-2996 
 Alberto González 809-350-2277 
 Ochy (Juana) Molina (809) 816-4283 
 73 El Llamamiento De Samuel  
 1 Samuel 3:1-20 
 
--Noviembre 10 
+## Noviembre 10 
 Carlos Gómez 809-395-9223 
 Agustin Rosó 809-519-5225 
 74 La Captura Y Regreso Del Arca 
 1 Samuel 4:1-7:2 
 
--Noviembre 17 
+## Noviembre 17 
 Edwards Batista 809-834-6110 
 Johnny Reynoso 809-443-1901 
 75 Saúl Hecho Rey De Israel  
 1 Samuel 9:1-12:25 
 
--Noviembre 24 
+## Noviembre 24 
 Rafael Bueno 809-993-7590 
 Enrique Matos 809-699-1596 
 76 La Pelea De Jonatan Y El Juramento De Saul 
 1 Samuel 14:1-46 
 
--Diciembre 1 
+## Diciembre 1 
 Emmanuel Carela 829 470 9222 
 Miguel Javier 829 380 2872 
 Esteban Santos (829) 360-0850 
 77 Saul Es Rechazado Por Dios 
 1 Samuel 15:10-35 
 
--Diciembre 8 
+Diciembre 8 
 Mario Viñas 809-467-2996 
 Alberto González 809-350-2277 
 Ochy (Juana) Molina (809) 816-4283 
@@ -141,5 +141,5 @@ Agustín Rosó 809-519-5225
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDg4MDQyN119
+eyJoaXN0b3J5IjpbLTY4NjY2MjA3Nl19
 -->
