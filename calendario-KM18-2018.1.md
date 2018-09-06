@@ -3,6 +3,8 @@
 > As of 2018-09-05
 
 Github Website: https://cgomezsilva.github.io/km18/
+
+
 Archivos curriculum 
 
 ## Agosto 4 
@@ -161,6 +163,6 @@ Archivos curriculum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODg2NzYzNiwtNTg4MTU3NzMwLDE0Nj
-I2MTgzODMsLTI2MTg1NTUyOSw0MzA5MzA5NzddfQ==
+eyJoaXN0b3J5IjpbLTE1MzQ3NjU3MTIsLTU4ODE1NzczMCwxND
+YyNjE4MzgzLC0yNjE4NTU1MjksNDMwOTMwOTc3XX0=
 -->
