@@ -69,7 +69,7 @@ Agustín Rosó 809-519-5225
 69 Booz Se Casa Con Rut 
 Rut 4:1-13 
 
--Octubre 13  CHARLA 
+## Octubre 13  CHARLA 
 Esteban Rojas 
 ¿Quién es Cristo? 
 Edwards Batista 809-834-6110 
@@ -79,7 +79,7 @@ Johnny Reynoso 809-443-1901
 
  
 
--Octubre 20 
+## Octubre 20 
 Rafael Bueno 809-993-7590 
 Enrique Matos 809-699-1596 
 71 El Nacimiento De Samuel  
@@ -141,5 +141,5 @@ Agustín Rosó 809-519-5225
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY2NzI2NTFdfQ==
+eyJoaXN0b3J5IjpbLTkwNDg4MDQyN119
 -->
