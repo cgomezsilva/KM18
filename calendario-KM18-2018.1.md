@@ -6,8 +6,8 @@
 
 ~~- Edwards Batista 809-834-6110~~ 
 ~~- Johnny Reynoso 809-443-1901~~ 
-~~- 60 La Muerte De Josué ~~
-~~- Jueces 2:7-10 ~~
+~~- 60 La Muerte De Josué ~~~- Jueces 2:7-10 ~~
+
 
 ## Agosto 11 
 - Rafael Bueno 809-993-7590
@@ -157,6 +157,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDQ1OTM3NywtMjYxODU1NTI5LDQzMD
-kzMDk3N119
+eyJoaXN0b3J5IjpbLTEyMzU4NTk2ODMsLTI2MTg1NTUyOSw0Mz
+A5MzA5NzddfQ==
 -->
