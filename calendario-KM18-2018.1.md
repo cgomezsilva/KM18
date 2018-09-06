@@ -37,7 +37,7 @@
 ## Septiembre 1 
 
 - Carlos Gómez 809-395-9223
-- Agustín Rosó 809-519-5225 
+- Agustín Rossó 809-519-5225 
 - 64 El Nacimiento De Sansón 
 - Jueces 13 
 
@@ -152,12 +152,12 @@
 ¿Por qué disciplinar bíblicamente? 
 
 - Carlos Gómez 809-395-9223 
-- Agustín Rosó 809-519-5225 
+- Agustín Rossó 809-519-5225 
 - 79 David Y Goliat 
 - 1 Samuel 17:1-52
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzk3OTQyNSwtMjYxODU1NTI5LDQzMD
+eyJoaXN0b3J5IjpbMTQ2MjYxODM4MywtMjYxODU1NTI5LDQzMD
 kzMDk3N119
 -->
