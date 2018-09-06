@@ -121,7 +121,7 @@
 - Edwards Batista 809-834-6110 
 - Johnny Reynoso 809-443-1901 
 - 75 Saúl Hecho Rey De Israel  
--1 Samuel 9:1-12:25 
+- 1 Samuel 9:1-12:25 
 
 ## Noviembre 24 
 
@@ -157,6 +157,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMTUwODEzLC0yNjE4NTU1MjksNDMwOT
-MwOTc3XX0=
+eyJoaXN0b3J5IjpbMTEwNDQ1OTM3NywtMjYxODU1NTI5LDQzMD
+kzMDk3N119
 -->
