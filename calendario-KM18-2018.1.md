@@ -131,7 +131,7 @@ Ochy (Juana) Molina (809) 816-4283
 78 Samuel Unge A David  
 1 Samuel 16:1-13 
 
--Diciembre 15 CHARLA 
+## Diciembre 15 CHARLA 
 Edwards Batista/ Eduardo Muñoz  
 ¿Por qué disciplinar bíblicamente? 
 Carlos Gómez 809-395-9223 
@@ -141,5 +141,5 @@ Agustín Rosó 809-519-5225
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzcwNTc0XX0=
+eyJoaXN0b3J5IjpbNDMwOTMwOTc3XX0=
 -->
