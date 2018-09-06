@@ -4,9 +4,9 @@
 
 ## Agosto 4 
 
-~~Edwards Batista 809-834-6110~~ 
-~~Johnny Reynoso 809-443-1901~~ 
-~~60 La Muerte De Josué ~~
+~~- Edwards Batista 809-834-6110~~ 
+~~- Johnny Reynoso 809-443-1901~~ 
+~~- 60 La Muerte De Josué ~~
 ~~Jueces 2:7-10 ~~
 
 ## Agosto 11 
@@ -157,5 +157,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTg1NTUyOSw0MzA5MzA5NzddfQ==
+eyJoaXN0b3J5IjpbNzc3MzgwMTA2LC0yNjE4NTU1MjksNDMwOT
+MwOTc3XX0=
 -->
