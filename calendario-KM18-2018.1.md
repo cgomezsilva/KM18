@@ -55,52 +55,57 @@
 - Jueces 16:22-31 
 
 ## Septiembre 22 
-Emmanuel Carela 829 470 9222 
-Miguel Javier 829 380 2872 
-Esteban Santos (829) 360-0850 
-67 Rut Selecciona Permanecer Con Noemí 
-Rut 1:1-18 
+
+- Emmanuel Carela 829 470 9222 
+- Miguel Javier 829 380 2872 
+- Esteban Santos (829) 360-0850 
+- 67 Rut Selecciona Permanecer Con Noemí 
+- Rut 1:1-18 
 
 ## Septiembre 29 
-Mario Viñas 809-467-2996 
-Alberto González 809-350-2277 
-Ochy (Juana) Molina (809) 816-4283 
-68 Rut espiga en los campos 
-Rut 2 
+
+- Mario Viñas 809-467-2996 
+- Alberto González 809-350-2277 
+- Ochy (Juana) Molina (809) 816-4283 
+- 68 Rut espiga en los campos 
+- Rut 2 
 
 ## Octubre 6 
-Carlos Gómez 809-395-9223 
-Agustín Rosó 809-519-5225 
-69 Booz Se Casa Con Rut 
-Rut 4:1-13 
+
+- Carlos Gómez 809-395-9223 
+- Agustín Rosó 809-519-5225 
+- 69 Booz Se Casa Con Rut 
+- Rut 4:1-13 
 
 ## Octubre 13  CHARLA 
-Esteban Rojas 
+> Esteban Rojas 
 ¿Quién es Cristo? 
-Edwards Batista 809-834-6110 
-Johnny Reynoso 809-443-1901 
-70 Ana 
-1 Samuel 1:1-19 
 
- 
+- Edwards Batista 809-834-6110 
+- Johnny Reynoso 809-443-1901 
+- 70 Ana 
+- 1 Samuel 1:1-19  
 
 ## Octubre 20 
-Rafael Bueno 809-993-7590 
-Enrique Matos 809-699-1596 
-71 El Nacimiento De Samuel  
-1 Samuel 1:20-28 
+
+- Rafael Bueno 809-993-7590 
+- Enrique Matos 809-699-1596 
+- 71 El Nacimiento De Samuel  
+- 1 Samuel 1:20-28 
 
 ## Octubre 27 
-Emmanuel Carela 829 470 9222 
-Miguel Javier 829 380 2872 
-Esteban Santos (829) 360-0850 
-72 Eli Y Sus Malvados Hijos  
-1 Samuel 2:12-36 
+
+- Emmanuel Carela 829 470 9222 
+- Miguel Javier 829 380 2872 
+- Esteban Santos (829) 360-0850 
+- 72 Eli Y Sus Malvados Hijos  
+- 1 Samuel 2:12-36 
 
 ## Noviembre 3 
-Mario Viñas 809-467-2996 
-Alberto González 809-350-2277 
-Ochy (Juana) Molina (809) 816-4283 
+
+- Mario Viñas 809-467-2996 
+- Alberto González 809-350-2277 
+-Ochy (Juana) Molina (809) 816-4283 
 73 El Llamamiento De Samuel  
 1 Samuel 3:1-20 
 
@@ -146,5 +151,5 @@ Agustín Rosó 809-519-5225
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODc2MzY1Nyw0MzA5MzA5NzddfQ==
+eyJoaXN0b3J5IjpbMTM5MjMyNTY1Nyw0MzA5MzA5NzddfQ==
 -->
