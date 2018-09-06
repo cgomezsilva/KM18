@@ -4,8 +4,8 @@
 
 Github Website: https://cgomezsilva.github.io/km18/
 
-
-Archivos curriculum 
+Archivos clases para ninos: http://firefighters.org/children/children-k-6a-es.html
+Archivos clases par 
 
 ## Agosto 4 
 
@@ -163,6 +163,6 @@ Archivos curriculum
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ3NjU3MTIsLTU4ODE1NzczMCwxND
+eyJoaXN0b3J5IjpbLTEyNTQyNjUwMjQsLTU4ODE1NzczMCwxND
 YyNjE4MzgzLC0yNjE4NTU1MjksNDMwOTMwOTc3XX0=
 -->
