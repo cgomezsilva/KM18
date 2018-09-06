@@ -10,6 +10,7 @@
 - Jueces 2:7-10
 
 ## Agosto 11 
+
 - Rafael Bueno 809-993-7590
 - Enrique Matos 809-699-1596 
 - 61 Débora 
@@ -157,6 +158,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTAyMjYwNSwtMjYxODU1NTI5LDQzMD
+eyJoaXN0b3J5IjpbLTQyMzk3OTQyNSwtMjYxODU1NTI5LDQzMD
 kzMDk3N119
 -->
