@@ -124,7 +124,7 @@ Esteban Santos (829) 360-0850
 77 Saul Es Rechazado Por Dios 
 1 Samuel 15:10-35 
 
-Diciembre 8 
+## Diciembre 8 
 Mario Viñas 809-467-2996 
 Alberto González 809-350-2277 
 Ochy (Juana) Molina (809) 816-4283 
@@ -141,5 +141,5 @@ Agustín Rosó 809-519-5225
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjY2MjA3Nl19
+eyJoaXN0b3J5IjpbMTA0MzcwNTc0XX0=
 -->
