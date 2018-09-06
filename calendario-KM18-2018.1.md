@@ -73,7 +73,7 @@
 ## Octubre 6 
 
 - Carlos Gómez 809-395-9223 
-- Agustín Rosó 809-519-5225 
+- Agustín Rossó 809-519-5225 
 - 69 Booz Se Casa Con Rut 
 - Rut 4:1-13 
 
@@ -157,5 +157,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjE2MzcxMCw0MzA5MzA5NzddfQ==
+eyJoaXN0b3J5IjpbLTI2MTg1NTUyOSw0MzA5MzA5NzddfQ==
 -->
