@@ -15,7 +15,7 @@
 - 61 Débora 
 - Jueces 4:1-23 
 
--Agosto 18 CHARLA 
+-## Agosto 18 CHARLA 
 LEOPOLDO ESPAILLAT 
 ¿Cuál es el propósito de tener un hogar? 
 Emmanuel Carela 829 470 9222 
@@ -24,46 +24,46 @@ Esteban Santos (829) 360-0850
  62 El Llamamiento De Gedeón  
 Jueces 6:11-40 
 
--Agosto 25 
+-## Agosto 25 
 Mario Viñas 809-467-2996 
 Alberto González 809-350-2277 
 Ochy (Juana) Molina (809) 816-4283 
 63 Gedeón Y Su Ejercito De 300  
 Jueces 7:1-25 
 
--Septiembre 1 
+-## Septiembre 1 
 Carlos Gómez 809-395-9223
 Agustín Rosó 809-519-5225 
 64 El Nacimiento De Sansón 
 Jueces 13 
 
--Septiembre 8 
+-## Septiembre 8 
 Edwards Batista 809-834-6110 
 Johnny Reynoso 809-443-1901 
 65 Sansón Y Dalila 
 Jueces 16:4-21 
 
--Septiembre 15 
+-## Septiembre 15 
 Rafael Bueno 809-993-7590 
 Enrique Matos 809-699-1596 
 66 Sansón Destruye El Templo 
 Jueces 16:22-31 
 
--Septiembre 22 
+-## Septiembre 22 
 Emmanuel Carela 829 470 9222 
 Miguel Javier 829 380 2872 
 Esteban Santos (829) 360-0850 
 67 Rut Selecciona Permanecer Con Noemí 
 Rut 1:1-18 
 
--Septiembre 29 
+-## Septiembre 29 
 Mario Viñas 809-467-2996 
 Alberto González 809-350-2277 
 Ochy (Juana) Molina (809) 816-4283 
 68 Rut espiga en los campos 
 Rut 2 
 
--Octubre 6 
+-## Octubre 6 
 Carlos Gómez 809-395-9223 
 Agustín Rosó 809-519-5225 
 69 Booz Se Casa Con Rut 
@@ -141,5 +141,5 @@ Agustín Rosó 809-519-5225
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDkxODk3MV19
+eyJoaXN0b3J5IjpbLTIzNjg5MzA3MywxOTUwOTE4OTcxXX0=
 -->
