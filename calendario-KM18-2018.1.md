@@ -4,7 +4,11 @@
 
 Github Website: https://cgomezsilva.github.io/km18/
 
+### Clases Viejo Testamento
+
 Archivos clases para ninos: http://firefighters.org/children/children-k-6a-es.html
+
+### 
 
 Archivos clases para ninos 2: http://firefighters.org/children/children-k-6b-es.html 
 
@@ -164,6 +168,7 @@ Archivos clases para ninos 2: http://firefighters.org/children/children-k-6b-es.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU4MzczNTEsLTU4ODE1NzczMCwxND
-YyNjE4MzgzLC0yNjE4NTU1MjksNDMwOTMwOTc3XX0=
+eyJoaXN0b3J5IjpbLTEwMTUwNTcxMDEsLTE5OTU4MzczNTEsLT
+U4ODE1NzczMCwxNDYyNjE4MzgzLC0yNjE4NTU1MjksNDMwOTMw
+OTc3XX0=
 -->
