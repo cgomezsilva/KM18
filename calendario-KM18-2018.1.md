@@ -3,20 +3,21 @@
 > As of 2018-09-05
 
 Github Website: https://cgomezsilva.github.io/km18/
+Archivos curriculum 
 
 ## Agosto 4 
 
 - Edwards Batista 809-834-6110
 - Johnny Reynoso 809-443-1901
-- 60 La Muerte De Josué
-- Jueces 2:7-10
+- **60 La Muerte De Josué**
+	- **Jueces 2:7-10**
 
 ## Agosto 11 
 
 - Rafael Bueno 809-993-7590
 - Enrique Matos 809-699-1596 
-- 61 Débora 
-- Jueces 4:1-23 
+- **61 Débora** 
+	- **Jueces 4:1-23** 
 
 ## Agosto 18 CHARLA 
 > LEOPOLDO ESPAILLAT 
@@ -160,6 +161,6 @@ Github Website: https://cgomezsilva.github.io/km18/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODE1NzczMCwxNDYyNjE4MzgzLC0yNj
-E4NTU1MjksNDMwOTMwOTc3XX0=
+eyJoaXN0b3J5IjpbLTU0ODg2NzYzNiwtNTg4MTU3NzMwLDE0Nj
+I2MTgzODMsLTI2MTg1NTUyOSw0MzA5MzA5NzddfQ==
 -->
