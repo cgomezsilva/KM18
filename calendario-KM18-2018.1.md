@@ -2,7 +2,7 @@
 # Calendario KM 18 2018
 > As of 2018-09-05
 
-Github Website: https://cgomezsilva.github.io/km18/
+Github Website: https://cgomezsilva.github.io/km18
 
 ### Clases Viejo Testamento
 
@@ -168,7 +168,7 @@ Archivos clases para ninos 2: http://firefighters.org/children/children-k-6b-es.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDQ2Mzc0NSwtMTk5NTgzNzM1MSwtNT
-g4MTU3NzMwLDE0NjI2MTgzODMsLTI2MTg1NTUyOSw0MzA5MzA5
-NzddfQ==
+eyJoaXN0b3J5IjpbLTIwMDU2MDc4OCwtOTEwNDYzNzQ1LC0xOT
+k1ODM3MzUxLC01ODgxNTc3MzAsMTQ2MjYxODM4MywtMjYxODU1
+NTI5LDQzMDkzMDk3N119
 -->
